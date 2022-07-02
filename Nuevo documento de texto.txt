@@ -1,0 +1,4 @@
+go run w.go
+CompileDaemon 
+CompileDaemon --command="./go.exe"
+go get github.com/githubnemo/CompileDaemon
